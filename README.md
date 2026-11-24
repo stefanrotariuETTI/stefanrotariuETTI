@@ -1,16 +1,22 @@
-## Hi there 👋
+![Stefan Rotariu — ETTI, POLITEHNICA Bucharest](assets/banner.svg)
 
-<!--
-**stefanrotariuETTI/stefanrotariuETTI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an Electronics, Telecommunications and Information Technology student at POLITEHNICA Bucharest. I’m interested in how hardware, software, and networks work together.
 
-Here are some ideas to get you started:
+## Areas of interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Microcontrollers, electronic circuits, software, and networks](assets/technology.svg)
+
+| Area | What I’m interested in |
+| --- | --- |
+| Embedded Systems | Microcontrollers and the interface between hardware and firmware |
+| Electronics | Circuit design and how electronic components behave |
+| Software Development | Writing software that supports and interacts with hardware |
+| Networking | How devices communicate and how networks are organized |
+
+## Personal and academic projects
+
+I’ll share project write-ups and source code here as they become available. [Browse my public repositories](https://github.com/stefanrotariuETTI?tab=repositories).
+
+## GitHub activity
+
+[View my contribution graph and recent activity](https://github.com/stefanrotariuETTI#contribution-activity).
